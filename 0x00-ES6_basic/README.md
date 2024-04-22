@@ -3,7 +3,7 @@
 
 ## JavaScript ES6
 
-![ECMAScript 6 - ECMAScript 2015](images/08806026ef621f900121.png)
+![Arrays](images/08806026ef621f900121.png)
 
 
 ## Resources
