@@ -126,5 +126,5 @@ Import Car from 10-car.js. Implement a class EVCar that extends Car with an addi
 
 ## Repository Information
 
-- GitHub repository: [alx-backend-javascript](https://github.com/your-username/alx-backend-javascript)
+- GitHub repository: alx-backend-javascript
 - Directory: 0x02-ES6_classes
