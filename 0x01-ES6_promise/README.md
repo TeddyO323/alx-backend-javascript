@@ -77,7 +77,6 @@ Don't forget to run `npm install` after adding `package.json`.
 ```
 
 ## Tasks
-Absolutely! Here's a more detailed explanation of each task for someone reading the README.md file:
 
 1. **Keep every promise you make and only make promises you can keep**
    - This task introduces the concept of Promises in JavaScript. You'll create a Promise using the `getResponseFromAPI()` prototype function and check if it's indeed a Promise using `console.log(response instanceof Promise)`.
@@ -112,4 +111,3 @@ Absolutely! Here's a more detailed explanation of each task for someone reading 
 11. **Await / Async**
     - Finally, this task involves using asynchronous functions `uploadPhoto` and `createUser` within an async function named `asyncUploadUser`. The function calls these async functions and returns an object with the results. If any of the async functions fail, it returns an empty object.
 
-Each task builds upon the previous one, covering different aspects of working with Promises, error handling, asynchronous operations, and handling multiple Promise scenarios. 
